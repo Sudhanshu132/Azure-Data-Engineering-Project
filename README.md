@@ -8,7 +8,7 @@ Developed as part of a Hands-On to strengthen practical data engineering skills.
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 ---
 
