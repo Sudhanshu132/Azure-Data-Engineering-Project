@@ -54,18 +54,21 @@ Developed as part of a Hands-On to strengthen practical data engineering skills.
 
 ## 📁 Repository Structure
 
+```
 azure-data-engineering-project/
 │
 ├── images/
-│ └── architecture.png
+│   └── architecture.png
 │
 ├── notebooks/
-│ └── databricks_transformation.ipynb
+│   └── databricks_transformation.ipynb
 │
 ├── pipeline_json/
-│ └── adf_pipeline_export.json
+│   └── adf_pipeline_export.json
 │
 └── README.md
+```
+
 
 
 ---
@@ -76,7 +79,6 @@ azure-data-engineering-project/
 - `pipeline_json/adf_pipeline_export.json` – Exported ADF pipeline JSON definition.
 - `images/architecture.png` – Project architecture diagram.
 
-> *Note: Actual dataset files are not included due to confidentiality. Scripts are for learning and demonstration.*
 
 ---
 
@@ -93,11 +95,7 @@ azure-data-engineering-project/
 
 ## 📌 Author
 
-**Your Name**
-
-[LinkedIn](https://linkedin.com/in/your-linkedin) | [Portfolio](#)
-
----
+**Sudhanshu Pukale**
 
 ## 🚀 Next Steps
 
@@ -105,7 +103,4 @@ azure-data-engineering-project/
 - Integrate CI/CD for pipeline deployment  
 - Enhance security with Managed Identities and Private Endpoints
 
----
-
-⭐ *If you found this project helpful, please give it a star!*
 
