@@ -63,8 +63,6 @@ azure-data-engineering-project/
 ├── notebooks/
 │   └── databricks_transformation.ipynb
 │
-├── pipeline_json/
-│   └── adf_pipeline_export.json
 │
 └── README.md
 ```
@@ -75,8 +73,9 @@ azure-data-engineering-project/
 
 ## 📂 Sample Files Included
 
-- `notebooks/databricks_transformation.ipynb` – PySpark data transformation notebook.
-- `pipeline_json/adf_pipeline_export.json` – Exported ADF pipeline JSON definition.
+- `notebooks/storageamount.ipynb` – PySpark data transformation notebook.
+- `notebooks/bronze to silver.ipynb` – PySpark data transformation notebook.
+- `notebooks/silver to gold.ipynb` – PySpark data transformation notebook.
 - `images/architecture.png` – Project architecture diagram.
 
 
